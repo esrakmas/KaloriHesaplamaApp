@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/besin"
+        android:title="Besinler"
+        android:icon="@drawable/foodicon"
+        />
+    <item
+        android:id="@+id/rapor"
+        android:title="Rapor"
+        android:icon="@drawable/graficon"/>
+
+</menu>
